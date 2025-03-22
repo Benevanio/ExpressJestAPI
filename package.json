@@ -6,7 +6,7 @@
     "test": "jest --watchAll",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
+  "keywords": ["tdd", "nodejs"],
   "author": "",
   "license": "ISC",
   "description": "",
