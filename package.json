@@ -1,0 +1,19 @@
+{
+  "name": "tddnapratica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.1.0"
+  }
+}
